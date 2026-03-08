@@ -20,4 +20,5 @@ This project is an AI-based virtual psychiatrist interviewer that analyzes user 
 - ppt : Project presentation
 
 ## Author
-Kousar Anjum
+Kousar Anjum  
+GitHub: https://github.com/Kousaranjumdl
